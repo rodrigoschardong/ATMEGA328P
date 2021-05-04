@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\Debug\EntradasESaidas.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>EntradasESaidas.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>EntradasESaidas.map</FILE>
+  <FILE>EntradasESaidas.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</FILE><LINE>12</LINE></start>
+  <espera_botao><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</FILE><LINE>18</LINE></espera_botao>
+  <botao_pressionado><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</FILE><LINE>23</LINE></botao_pressionado>
+  <loop_fim><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</FILE><LINE>28</LINE></loop_fim>
+  <delay_05><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</FILE><LINE>34</LINE></delay_05>
+  <loop1><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</FILE><LINE>36</LINE></loop1>
+  <delay_loop><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\Entradas e Saidas\Entradas e Saidas\main.asm</FILE><LINE>39</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
