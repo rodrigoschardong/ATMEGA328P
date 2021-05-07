@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\Debug\Interrupts.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Interrupts.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Interrupts.map</FILE>
+  <FILE>Interrupts.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>22</LINE></start>
+  <irq0><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>111</LINE></irq0>
+  <pcint><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>89</LINE></pcint>
+  <loop><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>52</LINE></loop>
+  <blink><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>57</LINE></blink>
+  <delay_05><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>67</LINE></delay_05>
+  <loop1><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>74</LINE></loop1>
+  <delay_loop><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>77</LINE></delay_loop>
+  <check_1hz><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>94</LINE></check_1hz>
+  <end_change_frequency><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>108</LINE></end_change_frequency>
+  <check_2hz><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>99</LINE></check_2hz>
+  <check_4hz><FILE>C:\Users\Rodrigo\Documents\Atmel Studio\7.0\External Interrupts\Interrupts\main.asm</FILE><LINE>104</LINE></check_4hz>
+ </LABELS>
+</ASSEMBLER_INFO>
